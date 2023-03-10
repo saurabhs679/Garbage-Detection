@@ -88,7 +88,6 @@
  | [Saurabh Sharma](https://github.com/saurabhs679)  | @saurabhs679      | 40226298  |
  | [Elahehpa](https://github.com/Elahehpa)           |        | 40204681  |
 
-[Video Link](https://drive.google.com/file/d/1w3Y7VhcCRyrjIZaCpk5gof2FQxrmyOo3/view?usp=share_link)
 
  <!-- MARKDOWN LINKS & IMAGES -->
  <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
